@@ -4,3 +4,4 @@
 
 2. Web Scraping via Python(pandas) on colab
 
+3. get_image = Extracted images from amazing website called Indepest. 
